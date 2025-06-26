@@ -1,6 +1,6 @@
 """
-Given a paragraph, identify all words that are repeated consecutively. 
-For each repeated word appearing n times consecutively, count the repetitions as n - 1. 
+Given a paragraph, identify all words that are repeated. 
+For each repeated word appearing n times, count the repetitions as n - 1. 
 
 Return only the total sum of all these repetition counts as an integer.
 
